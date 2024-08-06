@@ -9,6 +9,7 @@ int main() {
 
     for (i = 0; s[i] != '\0'; i++) {
         // empty block
+        // yo
     }
 
     printf("Length is %d", i);
