@@ -9,7 +9,8 @@ int main() {
 
     for (i = 0; s[i] != '\0'; i++) {
         // empty block
-        // yo
+        // only iterating i for
+        // getting length of string
     }
 
     printf("Length is %d", i);
