@@ -8,6 +8,7 @@ int main() {
     int i;
 
     for (i = 0; s[i] != '\0'; i++) {
+        // empty block
     }
 
     printf("Length is %d", i);
